@@ -1,5 +1,5 @@
 {
-  "name": "SemanticModel",
+  "name": "AdvWorksTabular",
   "compatibilityLevel": 1600,
   "model": {
     "culture": "en-GB",
@@ -1428,6 +1428,5 @@
         "value": "700"
       }
     ]
-  },
-  "id": "SemanticModel"
+  }
 }

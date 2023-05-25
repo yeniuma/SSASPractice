@@ -1,0 +1,9 @@
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\bin\Model.asdatabase
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\bin\Model.deploymenttargets
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\bin\Model.deploymentoptions
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\obj\Development\AdvWorksTabular.smproj.AssemblyReference.cache
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\obj\Development\AdvWorksTabular.smproj.SuggestedBindingRedirects.cache
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\obj\Development\AdvWorksTabular.smproj.CoreCompileInputs.cache
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\obj\Development\Model.asdatabase
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\obj\Development\Model.deploymentoptions
+F:\ProjectRepo\AdvWorksTabular\AdvWorksTabular\obj\Development\Model.deploymenttargets
